@@ -1,0 +1,8 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <div align="center" draggable="false">
+        <img src="{!$Resource.Cat1}" style="width:400px;height:350px;" />
+        <img src="{!$Resource.Fish}" style="width:500px;height:350px;" />
+        <img src="{!$Resource.CatGlad}" style="width:400px;height:350px;" />
+        <img src="{!$Resource.CatDis}" style="width:400px;height:350px;" />
+    </div>
+</aura:component>
